@@ -1,8 +1,7 @@
 
 #
-### My GitHub Trophies 🏆
-[![trophies](https://github-profile-trophy.vercel.app/?username=faerchiot&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Header](https://capsule-render.vercel.app/api?type=soft&color=1ffefd&height=200&section=header&text=ELiott%20In%20The%20Code&fontSize=70&animation=fadeIn&fontColor=1e1e1e)
+#
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
