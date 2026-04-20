@@ -1,8 +1,12 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1000&pause=500&color=9D13F7&multiline=true&repeat=false&width=435&height=429&lines=Hello;World;How+are+you+Doing%3F)](https://git.io/typing-svg)
 
-
+#
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
+#
 #👋 Hi, I’m @Faerchiot
-  
+#  
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=73F71D&multiline=true&width=435&height=429&lines=Codesys+Programming;Node.JS+Developing%2C+Node-red;WAGO+PLC+Developer%2CDALI2+Development;IoT+devices%2CMQTT%2CAPI%C2%B4s;Linux%2CDocker%2Cembedded)](https://git.io/typing-svg)
 
 ```javascript
@@ -14,3 +18,4 @@
 ||_|  \__,_|\___|_|  \___|_| |_| |___\___/|_|  |
 +==============================================+
 ```
+#
