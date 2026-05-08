@@ -8,6 +8,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-3C3C3C?style=for-the-badge&logo=mqtt&logoColor=white)
 #
 #👋 Hi, I’m @Faerchiot
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Feliott.mywire.org%2Fpublic%2Fshields%2Fdata.json)
 #  
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=73F71D&multiline=true&width=435&height=429&lines=Codesys+Programming;Node.JS+Developing%2C+Node-red;WAGO+PLC+Developer%2CDALI2+Development;IoT+devices%2CMQTT%2CAPI%C2%B4s;Linux%2CDocker%2Cembedded)](https://git.io/typing-svg)
 
